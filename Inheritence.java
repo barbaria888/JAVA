@@ -61,7 +61,7 @@ m.rbi();
 //m.m5();
 //System.out.println(m.x);
 // IF  WE TRY TO ACCESS THE CHILD METHOD WE CAN'T !!! m.child(); ---gives error 
-
+// brutal
 brute c = new mercy();
 c.overriden();
 
